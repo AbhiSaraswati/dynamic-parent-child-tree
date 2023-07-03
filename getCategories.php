@@ -19,7 +19,7 @@ function showCategory($parentId)
 
     $output .= "</ul>";
     echo $output;
-
+    // Lets check the changes
     return $output;
 }
 
