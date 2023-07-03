@@ -20,6 +20,7 @@ function showCategory($parentId)
     $output .= "</ul>";
     echo $output;
     // Lets check the changes
+    // Line2
     return $output;
 }
 
